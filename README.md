@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://img.shields.io/static/v1?label=Tec&style=flat-square&logo=Html&message=Html&color=blue"/>
-  <img align="center" src="https://img.shields.io/static/v1?label=Tec&style=flat-square&logo=Css&message=Css&color=blue"/>
+  <img align="center" src="https://img.shields.io/static/v1?label=Tec&style=flat-square&logo=HTML5&message=Html&color=blue"/>
+  <img align="center" src="https://img.shields.io/static/v1?label=Tec&style=flat-square&logo=CSS3&message=Css&color=blue"/>
 </p>
 
 <p align="center">
