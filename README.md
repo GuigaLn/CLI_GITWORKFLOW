@@ -16,9 +16,9 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://img.shields.io/github/issues/GuilhermeNallon/appIonicSeletivo"/>
-  <img align="center" src="https://img.shields.io/github/forks/GuilhermeNallon/appIonicSeletivo"/>
-  <img align="center" src="https://img.shields.io/github/stars/GuilhermeNallon/appIonicSeletivo"/>
+  <img align="center" src="https://img.shields.io/github/issues/GuigaLn/CLI_GITWORKFLOW"/>
+  <img align="center" src="https://img.shields.io/github/forks/GuigaLn/CLI_GITWORKFLOW"/>
+  <img align="center" src="https://img.shields.io/github/stars/GuigaLn/CLI_GITWORKFLOW"/>
 </p>
 
 <h4 align="center"> 
